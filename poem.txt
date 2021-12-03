@@ -8,6 +8,10 @@ red
 yellow
 unicorn
 ponies
+ponies
+ok
+indigo
+main
 
 the colors of the rainbow
 and the unicorn
